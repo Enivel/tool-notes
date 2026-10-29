@@ -22,3 +22,7 @@ Short, practical guides about small web tools we actually use.
 - [Turn AI-generated HTML into a shareable demo link](viewhtml-ai-html-share-link.html)
 - [Debug broken CSS with an instant HTML preview](viewhtml-css-debug-preview.html)
 - [Export an HTML prototype as PNG for Slack and Notion](viewhtml-html-to-png-notion.html)
+
+- [Afternoon RSS panels with Mac desktop widgets](kepo-afternoon-rss-panels-1029-1313)
+- [Ficha de tarde: quitar fondo y dejar blanco](fondo-blanco-ficha-tarde-1029-1313)
+- [Afternoon check of snippets in an online HTML viewer](viewhtml-snippet-afternoon-1029-1313)
